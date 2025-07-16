@@ -1,0 +1,15 @@
+C:\Users\mateus\Documents\GitHub\Estudos_Csharp\Calculator\obj\Debug\net9.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateus\Documents\GitHub\Estudos_Csharp\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\mateus\Documents\GitHub\Estudos_Csharp\Calculator\obj\Debug\net9.0\Calculator.AssemblyInfo.cs
+C:\Users\mateus\Documents\GitHub\Estudos_Csharp\Calculator\obj\Debug\net9.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mateus\Documents\GitHub\Estudos_Csharp\Calculator\obj\Debug\net9.0\Calculator.sourcelink.json
+C:\Users\mateus\Documents\GitHub\Estudos_Csharp\Calculator\bin\Debug\net9.0\Calculator.exe
+C:\Users\mateus\Documents\GitHub\Estudos_Csharp\Calculator\bin\Debug\net9.0\Calculator.deps.json
+C:\Users\mateus\Documents\GitHub\Estudos_Csharp\Calculator\bin\Debug\net9.0\Calculator.runtimeconfig.json
+C:\Users\mateus\Documents\GitHub\Estudos_Csharp\Calculator\bin\Debug\net9.0\Calculator.dll
+C:\Users\mateus\Documents\GitHub\Estudos_Csharp\Calculator\bin\Debug\net9.0\Calculator.pdb
+C:\Users\mateus\Documents\GitHub\Estudos_Csharp\Calculator\obj\Debug\net9.0\Calculator.dll
+C:\Users\mateus\Documents\GitHub\Estudos_Csharp\Calculator\obj\Debug\net9.0\refint\Calculator.dll
+C:\Users\mateus\Documents\GitHub\Estudos_Csharp\Calculator\obj\Debug\net9.0\Calculator.pdb
+C:\Users\mateus\Documents\GitHub\Estudos_Csharp\Calculator\obj\Debug\net9.0\Calculator.genruntimeconfig.cache
+C:\Users\mateus\Documents\GitHub\Estudos_Csharp\Calculator\obj\Debug\net9.0\ref\Calculator.dll
