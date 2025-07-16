@@ -8,24 +8,31 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MateusSilvaVizcaya\\.nuget\\packages\\": {}
+    "C:\\Users\\mateus\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MateusSilvaVizcaya\\OneDrive - Vizcaya Cosméticos\\Documentos\\Estudos_Csharp\\Estudos_Csharp.csproj",
+      "projectUniqueName": "C:\\Users\\mateus\\Documents\\GitHub\\Estudos_Csharp\\Estudos_Csharp.csproj",
       "projectName": "Estudos_Csharp",
-      "projectPath": "C:\\Users\\MateusSilvaVizcaya\\OneDrive - Vizcaya Cosméticos\\Documentos\\Estudos_Csharp\\Estudos_Csharp.csproj",
-      "packagesPath": "C:\\Users\\MateusSilvaVizcaya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MateusSilvaVizcaya\\OneDrive - Vizcaya Cosméticos\\Documentos\\Estudos_Csharp\\obj\\",
+      "projectPath": "C:\\Users\\mateus\\Documents\\GitHub\\Estudos_Csharp\\Estudos_Csharp.csproj",
+      "packagesPath": "C:\\Users\\mateus\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mateus\\Documents\\GitHub\\Estudos_Csharp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\MateusSilvaVizcaya\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\mateus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
